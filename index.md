@@ -20,7 +20,7 @@
    <div class="container">
     <div class="post">
      <div class="post-author">
-      <img src="/me.jpg">
+      <img src="/me.jpg" width="300px" height="300px">
       <span>Me</span>
      </div>
      <p class="post-date">Today</p>
