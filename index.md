@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <title>Official Blog of BoredBox</title>
+  <title>Jerico Tesorero - Website</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
  </head>
  <body>
