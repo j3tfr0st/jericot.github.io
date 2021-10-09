@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <title>Jerico Tesorero - Website</title>
+  <title>Life of Jerico</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
  </head>
  
@@ -47,5 +47,7 @@
      <p>Hello! My real name is Jerico Tesorero and I'm still learning how to code and wanna be become an aspiring web developer.</p>
     </div>
    </div>
+   
+   <script></script>
    </body>
   </html>
