@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
  <head>
-  <title>Life of Jerico</title>
+  <title>JetF</title>
   <link rel="stylesheet" type="text/css" href="styles.css">
  </head>
  
  <body>
   <div id="header">
    <div class="container">
-    <a id="header-title" href="/index.html">BoredBox' blog</a>
+    <a id="header-title" href="/index.html">JetF</a>
     <ul id="header-nav">
      <li><a href="/about.html">About</a></li>
      <li><a href="mailto: jtesorero121@gmail.com">Contact</a></li>
@@ -21,13 +21,12 @@
     <div class="post">
      <div class="post-author">
       <img src="/me.jpg" width="300px" height="300px">
-      <span>Me</span>
      </div>
      <p class="post-date">Today</p>
-     <h3 class="post-title">Becoming a web developer</h3>
+     <h3 class="post-title">Continue on learning to code</h3>
      <div class="post-content">
-      <p><em>Becoming a developer</em> is <strong>not easy</strong>. However, there are a lot of <em>websites, books, and applications</em> to <strong>learn coding</strong>.</p> 
-      <p>I came cross <a href="http://getmimo.com">Mimo</a> and started to work on a <em>test</em> blog.</p>
+      <p>Becoming a developer is not easy. However, there are a lot of websites, books, and applications to learn coding.</p> 
+      <p>I came cross <a href="http://getmimo.com">Mimo</a> and started to work on a test page.</p>
      </div>
     </div>
    </div>
@@ -48,6 +47,7 @@
     </div>
    </div>
    
-   <script></script>
+   <script>
+   </script>
    </body>
   </html>
